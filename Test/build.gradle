@@ -1,0 +1,12 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    compile files('libs/jdom-2.0.6.jar')
+    compile files('libs/jxl.jar')
+}
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}
+sourceCompatibility = "1.7"
+targetCompatibility = "1.7"
