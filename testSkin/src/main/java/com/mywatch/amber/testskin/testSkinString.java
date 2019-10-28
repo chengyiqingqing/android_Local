@@ -35,7 +35,7 @@ public class testSkinString {
     public static File mModuleFile;
     public static String mPkgName;
 
-    public static String skin_out_path ="e:\\testSkinXml\\testSkin.xls";//testSkinXml
+    public static String skin_out_path ="e:\\installapk\\testSkin.xls";//testSkinXml
     public static WritableSheet sheet;
     public static ArrayList<String> arrTitle=new ArrayList<>();
     public static int mRowCount=2;

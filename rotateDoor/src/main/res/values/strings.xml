@@ -1,3 +1,44 @@
 <resources>
     <string name="app_name">MyApplication</string>
+
+    <integer name="amber_ad_sdk_pingstart_app_id">1045</integer>
+    <integer name="amber_ad_sdk_pingstart_slot_id">1784</integer>
+    <string name="amber_start_page">991124597593080_1058724784166394</string>
+    <string name="amber_quit_confirm">991124597593080_1058733360832203</string>
+    <string name="amber_apply_success">991124597593080_1058734414165431</string>
+
+
+    <string name="cancel">Cancel</string>
+    <string name="yes">OK</string>
+    <string name="quit">Quit</string>
+    <string name="confirm_to_quit">Confirm To Quit</string>
+    <string name="apply_success">Apply Success!</string>
+    <string name="skip_ad">Skip</string>
+    <string name="tap_again_to_exit">Tap again to exit</string>
+
+    <string name="default_ad_amber_body">Download Amber Weather now to unlock 3 fancy widgets worth $5.47! Check them out! (Redeem code: ambergift)</string>
+    <string name="default_ad_amber_star_body">Google Play Best of 2015!\nInstall Amber Weather to get 24x7 real-time forecasts and weather alerts.</string>
+    <string name="default_ad_amber_title">Amber Weather</string>
+    <string name="default_ad_amber_button">Install Now</string>
+    <string name="default_ad_widget_body">Multifunctional widgets to check current weather condition, hourly and daily forecast, battery consumption &amp; calendar events.</string>
+    <string name="default_ad_widget_title">Multifunctional Widget</string>
+    <string name="default_ad_widget_button">Learn More</string>
+
+    <string name="ad_requese_url">http://push.amberweather.com/message.php?appid=11001&amp;lang=en&amp;appver=15</string>
+    <string name="mobvista_ad_unit_id">3999</string>
+    <string name="mobvista_ad_app_id">30418</string>
+    <string name="mobvista_ad_app_key">2d795cebd5c676048e3ee53730a9b332</string>
+    <string name="admobvance_unit_id">ca-app-pub-3935620297880745/5909258312</string>
+    <string name="admobvance_app_id">ca-app-pub-3935620297880745</string>
+
+    <string name="ad_blocker_description">Ad Blocker for our locker is available now! Download to have an AD-Free locker service!</string>
+    <string name="ad_blocker_action_text">Block AD Now</string>
+    <string name="ad_blocker_out_title">Block AD</string>
+
+    <string name="ad_amber_button">Install Now</string>
+    <string name="ad_amber_title">Ace Launcher</string>
+    <string name="ad_amber_content">Fast, small&#38;beautiful. Ace Launcher keeps your phone organized and personalized.</string>
+    <string name="ad_keyboard">Kiwi Keyboard</string>
+    <string name="ad_amber_keyboard_content">Customized keyboard app with funny Emoji &#38; emoticons. Make your own typing app now!</string>
+
 </resources>

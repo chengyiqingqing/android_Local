@@ -45,7 +45,7 @@ public class myClass {
         arrTitle=new ArrayList<>();
         HashMap<String,ArrayList<String>> hashMap=new HashMap<>();
         for (int i=0;i<files.length;i++){
-            //files为文件列表；||files[i].getName().contains("values-de")||files[i].getName().contains("values-ar")
+            //files为文件列表；||resDirectoryFiles[i].getName().contains("values-de")||resDirectoryFiles[i].getName().contains("values-ar")
             if (files[i].getName().contains("values")){
                 System.out.println("wenwenwenwen"+files[i].getName());
                 if (files[i].getName().equals("values")){
@@ -109,7 +109,7 @@ public class myClass {
                                 }*/
                             } catch (Exception e) {
                                 e.printStackTrace();
-                            }
+                             }
                             it=true;
                         }
                     for(String hashKey : hashMap.keySet()){
